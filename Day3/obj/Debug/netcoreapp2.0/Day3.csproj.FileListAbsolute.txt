@@ -1,0 +1,10 @@
+c:\Repos\AdventOfCode2017\Day3\bin\Debug\netcoreapp2.0\Day3.deps.json
+c:\Repos\AdventOfCode2017\Day3\bin\Debug\netcoreapp2.0\Day3.runtimeconfig.json
+c:\Repos\AdventOfCode2017\Day3\bin\Debug\netcoreapp2.0\Day3.runtimeconfig.dev.json
+c:\Repos\AdventOfCode2017\Day3\bin\Debug\netcoreapp2.0\Day3.dll
+c:\Repos\AdventOfCode2017\Day3\bin\Debug\netcoreapp2.0\Day3.pdb
+c:\Repos\AdventOfCode2017\Day3\obj\Debug\netcoreapp2.0\Day3.csproj.CoreCompileInputs.cache
+c:\Repos\AdventOfCode2017\Day3\obj\Debug\netcoreapp2.0\Day3.AssemblyInfoInputs.cache
+c:\Repos\AdventOfCode2017\Day3\obj\Debug\netcoreapp2.0\Day3.AssemblyInfo.cs
+c:\Repos\AdventOfCode2017\Day3\obj\Debug\netcoreapp2.0\Day3.dll
+c:\Repos\AdventOfCode2017\Day3\obj\Debug\netcoreapp2.0\Day3.pdb
